@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Kassem, a passionate software and AI developer with experience in various programming languages and technologies. My solid background in Computer Engineering and keen interest in emerging trends drive me to seek new challenges and opportunities to enhance my skills.
+### Hi there 👋 
+
+I'm Kassem, a passionate software and AI developer with experience in various programming languages and technologies. My solid background in Computer Engineering and keen interest in emerging trends drive me to seek new challenges and opportunities to enhance my skills.
 
 Throughout my career, I've contributed to various projects, ranging from small-scale applications to large-scale enterprise systems. I strongly believe in the power of teamwork and collaboration, and I take pride in my ability to work effectively with others to achieve shared goals.
 
